@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\Pedidos.Modelos\bin\Debug\net6.0\Pedidos.Modelos.deps.json
+C:\Users\Alex\source\repos\Pedidos.Modelos\bin\Debug\net6.0\Pedidos.Modelos.dll
+C:\Users\Alex\source\repos\Pedidos.Modelos\bin\Debug\net6.0\Pedidos.Modelos.pdb
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\Pedidos.Modelos.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\Pedidos.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\Pedidos.Modelos.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\Pedidos.Modelos.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\Pedidos.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\Pedidos.Modelos.dll
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\refint\Pedidos.Modelos.dll
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\Pedidos.Modelos.pdb
+C:\Users\Alex\source\repos\Pedidos.Modelos\obj\Debug\net6.0\ref\Pedidos.Modelos.dll

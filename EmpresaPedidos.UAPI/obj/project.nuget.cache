@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJ7WqSUetYZCU4ZVahqqT3jNdQnkDMDm9l4yBb5V8Bwv0g9BbB7r7Gn0d/91GnGHO3p+FA4DH2vfcjPFmNxeoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\EmpresaPedidos.UAPI\\EmpresaPedidos.UAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

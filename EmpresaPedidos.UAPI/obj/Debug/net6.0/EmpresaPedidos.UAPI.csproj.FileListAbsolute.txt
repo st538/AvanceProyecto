@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\bin\Debug\net6.0\EmpresaPedidos.UAPI.deps.json
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\bin\Debug\net6.0\EmpresaPedidos.UAPI.dll
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\bin\Debug\net6.0\EmpresaPedidos.UAPI.pdb
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\EmpresaPedidos.UAPI.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\EmpresaPedidos.UAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\EmpresaPedidos.UAPI.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\EmpresaPedidos.UAPI.AssemblyInfo.cs
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\EmpresaPedidos.UAPI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\EmpresaPedidos.UAPI.dll
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\refint\EmpresaPedidos.UAPI.dll
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\EmpresaPedidos.UAPI.pdb
+C:\Users\Alex\source\repos\EmpresaPedidos.UAPI\obj\Debug\net6.0\ref\EmpresaPedidos.UAPI.dll
